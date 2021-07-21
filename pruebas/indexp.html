@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>valid Card</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+    <header>Bienvenidos</header>
+    <main>valid Card</main>
+    <figure>
+        <img src="https://www.melhoresdestinos.com.br/wp-content/uploads/2020/08/itau-personnalite-visa-signature.png" height="200" width="300">
+    </figure>
+
+    <form action="/find.cgi" method=get>
+        <input type="password" name=q>
+
+        <input type=submit>
+    </form>
+
+    <label>
+      <input type="checkbox" name="conditions" value="accept-conditions" checked />
+      Acepto los términos y condiciones
+    </label>
+
+    <!--agregar css a un texto con color,letra,fondo y tamaño-->
+    <div id="top">
+        <h1>Cerry de chocolate</h1>
+        <p class="intro">Esta es mi receta para hacer curry con chocolate</p>
+        <p class="intro">Mmm mm mmmmm</p>
+    </div>
+
+    <!-- agregar formulario de subscripcción con from -->
+    <form action="respuesta.php" method="post">
+        <fieldset>
+            <legend>Suscribirse al Boletín</legend>
+            <p><label for="casilla">Correo electrónico:</label>
+                <input type="text" name="casilla" id="casilla"></p>
+            <input type="text" required />
+
+            <p><input type="submit" value="Suscribirse"></p>
+        </fieldset>
+    </form>
+
+    <!--formulario con opcción de elegir una respuesta-->
+    <label>
+      <input type="radio" name="gender" value="female"> Mujer
+    </label>
+    <label>
+      <input type="radio" name="gender" value="male"> Hombre
+    </label>
+    <label>
+      <input type="radio" name="gender" value="no-gender"> No deseo brindar información
+    </label>
+
+
+
+
+
+
+    <script src="index.js" type="module"></script>
+</body>
+
+</html>

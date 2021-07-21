@@ -3,8 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
+    <title>valid Card</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
 <body>
@@ -16,17 +16,14 @@
         <img src="https://www.melhoresdestinos.com.br/wp-content/uploads/2020/08/itau-personnalite-visa-signature.png" height="200" width="300">
     </figure>
 
-    <p>Ingrese un número de 16 digitos sin letras</p>
-    <input id="tarjeta" type="text" pattern="[0-9]{16}" placeholder="número de tarjeta" required>
-    <button id="validar" type="click">validar tarjeta </button>
+    <form name="num" id="num" action="/find.cgi" method=get>
+        <input type=search text="number" placeholder="número de tarjeta" name="nu" id="nu" required>
+        <a href="index1.html"><input type=submit></a>
 
-    <div>
-        <p id="resultadoFinal"> </p>
-    </div>
 
+    </form>
 
     <script src="index.js" type="module"></script>
-
 </body>
 
 </html>

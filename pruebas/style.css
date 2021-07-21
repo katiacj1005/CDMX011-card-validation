@@ -2,3 +2,13 @@ body {
     background-image: url('https://image.freepik.com/premium-photo/gold-gradient-color-background-creative-abstract-backdrop_120819-121.jpg');
     text-align: center;
 }
+
+#top {
+    background-color: rgb(241, 19, 19);
+    padding: px
+}
+
+.intro {
+    color: rgb(19, 18, 18);
+    font-weight: bold;
+}
