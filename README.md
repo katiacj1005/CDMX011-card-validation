@@ -2,7 +2,8 @@ TITULO: VALID CARD student
 
 Mi proyecto se trata de una herramienta para validar tarjetas en la que te permite ingresar 16 números sin letras,ocultando los ultimos cuatro digitos de tu tarjeta, logrando interactiar con un boton de validad que correra el algoritmo luhn lanzando un mensaje como resultado  en el que te informara si tu tarjeta es valida o invalida.
 
-![Mi valid card](https://katiacj1005.github.io/CDMX011-card-validation/)
+![Captura de pantalla (188)](https://user-images.githubusercontent.com/78768677/126928148-34a2266b-a820-4566-860a-caae6130a025.png)
+
 
 
 Investigación UX:
