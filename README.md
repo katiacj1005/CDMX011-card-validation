@@ -19,7 +19,7 @@ para realizar retiros o pagos basicos.
 🔴Cómo crees que el producto que estás creando está resolviendo sus problemas.
 Al adquirir por primera vez tu targeta becario y en su mayoria en estudiantes desinfomados respecto a la adquisición de tarjetas de credito, se genera muy constante la desinformación si su tarjeta está correctamente difinida para comenzar a realizar retiros y pago basicos. Al usar estó ahorra la perdida de tiempo y gastos al momento de presentarse un error en un pago o retiro.
 
-![Mi prototipo valid card](https://user-images.githubusercontent.com/78768677/126928041-3f643a64-8de1-4a2f-baa4-f6bd74d344a2.jpeg)
+
 
 
 
